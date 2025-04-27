@@ -30,8 +30,12 @@ Programming Languages: JavaScript
 
 Web Development: React.js, Node.js, Express.js, MongoDB, HTML/CSS/Bootstrap
 
-
 Version Control: Git, GitHub
+
+
+Open Source Contribution
+
+I'd like to contribute to open-source projects and believe in the power of collaboration.
 
 
 <!---
